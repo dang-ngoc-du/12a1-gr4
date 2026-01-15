@@ -1,5 +1,5 @@
 .banner {
-    background: url("https://github.com/dang-ngoc-du/12a1-gr4/blob/main/images/z7434655863559_80f53753133f7cdc8c3f8c397a28c136.jpg") no-repeat center center;
+    background: url("z7434655863559_80f53753133f7cdc8c3f8c397a28c136.jpg") no-repeat center center;
     background-size: cover; /*Hình ảnh có thể bị cắt để lấp đầy toàn bộ phần tử*/
     padding-top: 12rem;
     padding-bottom: 12rem;
@@ -84,4 +84,5 @@ a:hover{
     color: magenta;
 
 }
+
 
