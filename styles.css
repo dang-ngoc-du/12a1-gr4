@@ -48,7 +48,7 @@ table
 	margin: 0 auto;
 }
 .cell_img {
-	width: 50%;
+	width: 30%;
 }
 .cell_text {
 	width: 50%; padding-left: 5rem;
@@ -84,6 +84,7 @@ a:hover{
     color: magenta;
 
 }
+
 
 
 
