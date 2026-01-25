@@ -7,7 +7,7 @@
     color: darkred; !important;
 }
 .slogan {
-    background-color: rgb(230, 240, 250) !important;
+    background-color: #FFFF66 !important;
     text-align: center !important;
  	width: 100%;
     padding-right: 2rem;
@@ -32,15 +32,15 @@
 }
 div#b3a:hover{
     font-size: 120%;
-    color: green;
+    color: #99FF00;
 }
 div#b3b:hover{
     font-size: 120%;
-    color: green;
+    color: #99FF00;
 }
 div#b3c:hover{
     font-size: 120%;
-    color: green;
+    color: #99FF00;
 }
 table
 {
@@ -84,6 +84,7 @@ a:hover{
     color: magenta;
 
 }
+
 
 
 
