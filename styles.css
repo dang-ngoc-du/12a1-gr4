@@ -33,15 +33,15 @@
 }
 div#b3a:hover{
     font-size: 120%;
-    color: green;
+    color: red;
 }
 div#b3b:hover{
     font-size: 120%;
-    color: green;
+    color: red;
 }
 div#b3c:hover{
     font-size: 120%;
-    color: green;
+    color: red;
 }
 table
 {
@@ -85,6 +85,7 @@ a:hover{
     color: magenta;
 
 }
+
 
 
 
