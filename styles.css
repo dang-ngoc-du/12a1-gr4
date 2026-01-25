@@ -4,8 +4,8 @@
     padding-top: 12rem;
     padding-bottom: 12rem;
     text-align: center !important;
-    color: darkred; !important;
-	background-color: yellow;
+    color: darkred !important;
+	background-color: yellow !important;
 }
 .slogan {
     background-color: #CCFF99 !important;
@@ -85,6 +85,7 @@ a:hover{
     color: magenta;
 
 }
+
 
 
 
